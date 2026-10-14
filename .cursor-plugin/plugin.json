@@ -1,0 +1,11 @@
+{
+  "name": "vibiz",
+  "version": "1.0.0",
+  "description": "Vibiz, your AI marketing team: create on-brand ads and UGC videos, see ad results across Meta, Google, TikTok, LinkedIn, Pinterest and X, and publish to social with approval.",
+  "author": { "name": "Vibiz", "email": "lautaro@vibiz.ai" },
+  "homepage": "https://www.vibiz.ai/docs/mcp",
+  "repository": "https://github.com/Vibiz-ai/vibiz-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["marketing", "ads", "ugc", "social-media", "meta-ads", "google-ads", "tiktok", "mcp"],
+  "logo": "assets/logo.png"
+}
